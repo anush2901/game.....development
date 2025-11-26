@@ -65,3 +65,6 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+<img width="1918" height="1155" alt="image" src="https://github.com/user-attachments/assets/d8ac04c7-c50d-4778-8999-a2d85ff0685b" />
+
